@@ -78,6 +78,7 @@ ChatBot-Memory-Management-System/
 ├── main.c
 ├── Makefile
 ├── grade.sh
+├── README.md
 ```
 
 ---
@@ -171,3 +172,5 @@ The source code in this repository represents my implementation of the project r
 This repository is shared for educational and portfolio purposes.
 
 Please do not copy or submit this work as your own for academic credit.
+
+                         If you found this project interesting or helpful, consider giving the repository a ⭐.
