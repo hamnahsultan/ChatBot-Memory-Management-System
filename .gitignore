@@ -1,0 +1,6 @@
+*.pdf
+*.exe
+chatbot_demo
+*.o
+*.obj
+*.out
