@@ -134,6 +134,10 @@ Testing covers:
 - Full system integration
 - Memory leak detection using Valgrind
 
+<p align="center">
+  <img src="assets/grader result.png" width="750">
+</p>
+
 ---
 
 ## 🧠 Concepts Demonstrated
