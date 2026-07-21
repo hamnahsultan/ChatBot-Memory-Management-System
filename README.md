@@ -135,7 +135,7 @@ Testing covers:
 - Memory leak detection using Valgrind
 
 <p align="center">
-  <img src="assets/grader result.png" width="750">
+  <img src="extra/grade.png" width="750">
 </p>
 
 ---
